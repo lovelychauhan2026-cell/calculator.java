@@ -1,6 +1,16 @@
-public class Calculator {
-    public static void main(String[] args) {
-        int a = 10, b = 5;
-        System.out.println("Sum: " + (a + b));
-    }
-}
+# Calculator (Java)
+
+## Description
+This is a simple calculator program written in Java.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Run
+Compile and run using Java.
+
+## Author
+Lovely Chauhan
